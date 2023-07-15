@@ -1,9 +1,8 @@
 # user_login_window
 
--- kullanıcı adı ve parola isteyen bir giriş ekranı
+bir login sayfası.
 
-user: admin
-password: 12345
-
-
-- :)
+# giriş için kullanıcı bilgileri
+- user: admin
+- password: 12345
+#
